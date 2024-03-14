@@ -11,7 +11,7 @@ Hey NAMAN here,I love ransforming design concepts into polished, user-friendly i
 - 🤔 Diving deep into frontend technologies to create immersive digital experiences
 - 💬 Ask me about Web Technologies.
 - 📫 How to reach me: naman210@gmail.com
-My Resume:-
+- My Resume:
 
 
 
