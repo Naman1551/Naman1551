@@ -17,7 +17,7 @@ Hey NAMAN here,I love transforming design concepts into polished, user-friendly 
   
 - 🤔 How to reach me: naman210@gmail.com
   
-- My Resume:
+- My Resume: https://drive.google.com/file/d/1mfdwJny4uVnHz_GiGLEhGuuIO8jXArBQ/view?usp=sharing
 
 
 
