@@ -7,7 +7,7 @@ Hey NAMAN here,I love transforming design concepts into polished, user-friendly 
 
 - 🔭 Passionate about Frontend Development, aspiring to craft intuitive interfaces and seamless user experiences.
   
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning <b>React.js</b>
   
 - 👯 Proficient in | C Language | HTML | CSS | Javascript | MySQL | Bootstrap | Jquery
   
