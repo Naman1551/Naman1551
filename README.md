@@ -5,7 +5,7 @@ WelcomeTo My Github Profile!!!!
 Hey NAMAN here,I love transforming design concepts into polished, user-friendly interfaces that captivate and inspire.
 
 
-- 🔭 Passionate about Frontend Development, aspiring to craft intuitive interfaces and seamless user experiences.
+- 🔭 Passionate about <b>Frontend Development</b>, aspiring to craft intuitive interfaces and seamless user experiences.
   
 - 🌱 I’m currently learning <b>React.js</b>
   
